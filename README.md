@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning artificial intelligence and machine learning.
-- 🔭 I'm currently expanding my machine learning skills.
+- 🔭 I'm currently expanding my data analysis and machine learning skills.
 - ⚡ Fun fact: I'm a foodie! I love to make food and experimenting new dishes. I love ramen and hotpot!
